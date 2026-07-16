@@ -141,20 +141,6 @@ python clean_duplicate.py --dry-run
 
 ---
 
-## 用户可以在这里获得项目帮助
-
-### 文档资源
-
-- [基于安卓终端的露天矿盲区数据传输仿真方案.pdf](file:///c:/Users/PC/Desktop/研究生/研0-2026-7/基于安卓终端的露天矿盲区数据传输仿真方案.pdf) - 项目详细技术文档
-- [矿场部分算法综合.docx](file:///c:/Users/PC/Desktop/研究生/研0-2026-7/矿场部分算法综合.docx) - 算法调研报告
-
-### 测试报告
-
-- [test_report.txt](file:///c:/Users/PC/Desktop/研究生/研0-2026-7/test_report.txt) - 单元测试报告（57个测试用例全部通过）
-- [100周期测试运行结果.txt](file:///c:/Users/PC/Desktop/研究生/研0-2026-7/100周期测试运行结果.txt) - 系统仿真测试结果
-
-
-
 ## 许可证
 
 本项目仅供学术研究使用。
